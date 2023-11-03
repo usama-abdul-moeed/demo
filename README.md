@@ -1,2 +1,2 @@
 # demo
-Author: Usama Abdul Moeed
+Author: Usama Abdul Moeed (Devsinc)
